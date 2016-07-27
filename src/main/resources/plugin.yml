@@ -1,0 +1,11 @@
+name: Sudoku
+prefix: Sudoku
+main: net.windit.mcpl.sudoku.Main
+version: 1.0-SNAPSHOT
+author: hcrgm
+load: POSTWORLD
+website: http://www.mcbbs.net/thread-610737-1-1.html
+commands:
+    sudoku:
+       description: Plugin main command
+       usage: /<command> [set]

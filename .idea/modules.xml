@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sudoku-Bukkit.iml" filepath="$PROJECT_DIR$/.idea/modules/Sudoku-Bukkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sudoku-Bukkit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sudoku-Bukkit_main.iml" group="Sudoku-Bukkit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sudoku-Bukkit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sudoku-Bukkit_test.iml" group="Sudoku-Bukkit" />
+    </modules>
+  </component>
+</project>
